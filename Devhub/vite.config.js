@@ -6,4 +6,4 @@ export default defineConfig({
   plugins: [vue()],
   base: '/devhub/'
 })
-;git --version
+;git --versiongit add .
